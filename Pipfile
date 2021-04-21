@@ -11,6 +11,7 @@ scikit-learn = "*"
 scikit-image = "*"
 wandb = "*"
 seaborn = "*"
+opencv-python = "*"
 
 [dev-packages]
 
